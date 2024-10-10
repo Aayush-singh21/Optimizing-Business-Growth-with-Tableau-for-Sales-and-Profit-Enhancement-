@@ -3,7 +3,7 @@
 
 Sales Performance Dashboard
 
-This Power BI sales dashboard provides a comprehensive overview of key metrics, including total sales, profit margins, and customer segmentation analysis. The dashboard tracks year-over-year growth, identifies unprofitable products, and highlights the impact of discounts on profitability. It also offers insights into emerging sales trends and product performance, enabling data-driven decisions to enhance business growth.
+This Tableau sales dashboard provides a comprehensive overview of key metrics, including total sales, profit margins, and customer segmentation analysis. The dashboard tracks year-over-year growth, identifies unprofitable products, and highlights the impact of discounts on profitability. It also offers insights into emerging sales trends and product performance, enabling data-driven decisions to enhance business growth.
 
 Key features:
 
